@@ -32,7 +32,7 @@ public class RestUtils {
 	}
 
 	public static Response performPost(String endpoint, Map<String, Object> createairlinePayload, HashMap<String, Object> headers) {
-
+		System.out.println("added new scripts here");
 		return RestAssured.given().log().all().baseUri(endpoint).headers(headers)
 				.contentType(ContentType.JSON).body(createairlinePayload).post().then().log().all().extract().response();
 	}
