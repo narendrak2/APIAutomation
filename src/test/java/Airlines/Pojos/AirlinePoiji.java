@@ -25,6 +25,8 @@ public class AirlinePoiji {
     private String website;
     @ExcelCellName("Name")
     private String established;
+    @ExcelCellName("Name")
+    private String established1;
 @ExcelRow
     private String sheetname;
 }
