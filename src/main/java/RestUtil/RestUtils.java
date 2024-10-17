@@ -38,7 +38,6 @@ public class RestUtils {
 	}
 
 	public static Response performPost(String endpoint, Object createairlinePayload, HashMap<String, Object> headers) {
-		System.out.println("added new scripts here");
 		return RestAssured.given().log().all().baseUri(endpoint).headers(headers)
 				.contentType(ContentType.JSON).body(createairlinePayload).post().then().log().all().extract().response();
 	}
