@@ -16,10 +16,6 @@ public class JsonUtils {
 
     public static Map<String, Object> getJsonDataMap(String jsonFileName) throws StreamReadException, DatabindException, IOException {
 
-        System.out.println("some extra");
-        System.out.println("some extra");
-        System.out.println("some extra");
-        System.out.println("some extra");
         String completeJsonPath = System.getProperty("user.dir") + "/src/test/resources/" + jsonFileName;
         Map<String, Object> data = objectmapper.readValue(new File(completeJsonPath), new TypeReference<Map<String, Object>>() {
         });
