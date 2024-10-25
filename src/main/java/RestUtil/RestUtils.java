@@ -44,6 +44,7 @@ public class RestUtils {
         Extentreportmanager.loginfoDetails("Method name is " + queryableRequestSpecification.getMethod());
         Extentreportmanager.loginfoDetails("Method name is " + queryableRequestSpecification.getHeaders().asList().toString());
         Extentreportmanager.loginfoDetails("request body is ");
+
         Extentreportmanager.logjosn(queryableRequestSpecification.getBody());
     }
     private static void printLogInResponseReport(Response response) {

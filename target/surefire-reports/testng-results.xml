@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-25T14:27:33 IST" name="Suite" finished-at="2024-10-25T14:27:39 IST" duration-ms="5949">
+  <suite started-at="2024-10-25T14:46:54 IST" name="Suite" finished-at="2024-10-25T14:47:04 IST" duration-ms="10248">
     <groups>
     </groups>
-    <test started-at="2024-10-25T14:27:33 IST" name="Test" finished-at="2024-10-25T14:27:39 IST" duration-ms="5949">
+    <test started-at="2024-10-25T14:46:54 IST" name="Test" finished-at="2024-10-25T14:47:04 IST" duration-ms="10248">
       <class name="Airlines.AirlineTest">
-        <test-method signature="createairline()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-25T14:27:34 IST" name="createairline" finished-at="2024-10-25T14:27:38 IST" duration-ms="4346" status="FAIL">
+        <test-method signature="createairline()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-25T14:46:55 IST" name="createairline" finished-at="2024-10-25T14:47:03 IST" duration-ms="8518" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [300] but found [200]]]>
@@ -60,7 +60,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createairline -->
-        <test-method signature="getAirlines()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-25T14:27:38 IST" name="getAirlines" finished-at="2024-10-25T14:27:39 IST" duration-ms="815" status="PASS">
+        <test-method signature="getAirlines()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-25T14:47:03 IST" name="getAirlines" finished-at="2024-10-25T14:47:04 IST" duration-ms="859" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAirlines -->
