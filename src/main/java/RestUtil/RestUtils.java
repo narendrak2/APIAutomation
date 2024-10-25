@@ -37,22 +37,25 @@ public class RestUtils {
                 .extract().
                 response();
     }
-
-
     private static void PrintrequestloginReport(RequestSpecification requestSpecification) {
 
         QueryableRequestSpecification queryableRequestSpecification = SpecificationQuerier.query(requestSpecification);
         Extentreportmanager.loginfoDetails("End point is " + queryableRequestSpecification.getBaseUri());
         Extentreportmanager.loginfoDetails("Method name is " + queryableRequestSpecification.getMethod());
+        Extentreportmanager.loginfoDetails("Method name is " + queryableRequestSpecification.getHeaders().asList().toString());
+        Extentreportmanager.loginfoDetails("request body is ");
+        Extentreportmanager.logjosn(queryableRequestSpecification.getBody());
     }
-
     private static void printLogInResponseReport(Response response) {
 
+        //System.out.println("Resposne status code is " + response.getStatusCode());
+        //System.out.println("Response headers are " + response.headers());
+        //System.out.println("Response headers are " + response.getBody().prettyPrint());
         Extentreportmanager.loginfoDetails("Resposne status code is " + response.getStatusCode());
-        Extentreportmanager.loginfoDetails("Response headers are " + response.headers());
-        Extentreportmanager.loginfoDetails("Response headers are " + response.body());
+        Extentreportmanager.loginfoDetails("Response headers are " + response.headers().asList().toString());
+        Extentreportmanager.loginfoDetails("Response body is");
+        Extentreportmanager.logjosn(response.getBody().prettyPrint());
     }
-
     //public static Response performPost(String endPoint, String createairlinePayload, HashMap<String, Object> headers) {
 
     //return RestAssured.given().log().all().baseUri(endPoint).headers(headers)
