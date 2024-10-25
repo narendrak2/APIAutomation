@@ -5,7 +5,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 import Airlines.Pojos.Airline;
+import Reporting.Setup;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.fasterxml.jackson.core.exc.StreamReadException;
@@ -17,7 +19,9 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
+@Listeners(Setup.class)
 public class AirlineTest extends AirlinesAPI {
+
 	@Test
 	public void createairline() throws StreamReadException, DatabindException, IOException {
 		
