@@ -27,7 +27,7 @@ public class AirlineTest extends AirlinesAPI {
 		
 		Airline payload=Payloads.getcreateAirlinepayloadFromPojo();
 		Response response=createAirline(payload);
-		Assert.assertEquals(response.statusCode(), 200);
+		Assert.assertEquals(response.statusCode(), 300);
 	}
 	@Test
 	public void getAirlines(){

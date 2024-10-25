@@ -39,4 +39,12 @@ public class Setup implements ITestListener {
         ExtentTest test= report.createTest("Test name=" + result.getMethod().getMethodName());
         ExtentTest.set(test);
     }
+    public void onTestFailure(ITestResult result) {
+        // not implemented
+        ExtentTest test= report.createTest("Test name=" + result.getMethod().getMethodName());
+        ExtentTest.set(test);
+        ExtentTest status= report.createTest("Status code=" + result.getStatus());
+        ExtentTest.set(status);
+
+    }
 }
