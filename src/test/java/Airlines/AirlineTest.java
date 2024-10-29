@@ -22,17 +22,18 @@ import io.restassured.response.Response;
 @Listeners(Setup.class)
 public class AirlineTest extends AirlinesAPI {
 
-	@Test
-	public void createairline() throws StreamReadException, DatabindException, IOException {
-		
-		Airline payload=Payloads.getcreateAirlinepayloadFromPojo();
-		Response response=createAirline(payload);
-		Assert.assertEquals(response.statusCode(), 200);
-	}
-	@Test
-	public void getAirlines(){
-		Airline payload=Payloads.getdatafromForGetRequestFromPOJO();
-		Response response=createAirline(payload);
-		Assert.assertEquals(response.statusCode(), 200);
-	}
+    @Test
+    public void createairline() throws StreamReadException, DatabindException, IOException {
+
+        Airline payload = Payloads.getcreateAirlinepayloadFromPojo();
+        Response response = createAirline(payload);
+        Assert.assertEquals(response.statusCode(), 200);
+    }
+
+    @Test
+    public void getAirlines() {
+        Airline payload = Payloads.getdatafromForGetRequestFromPOJO();
+        Response response = createAirline(payload);
+        Assert.assertEquals(response.statusCode(), 200);
+    }
 }
