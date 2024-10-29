@@ -15,6 +15,4 @@ public class Airline {
 	private String headquoters;
 	private String website;
 	private String established;
-
-	
 }
