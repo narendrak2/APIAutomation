@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-25T13:01:15 IST" name="Suite" finished-at="2024-10-25T13:01:24 IST" duration-ms="9139">
+  <suite started-at="2024-10-29T15:04:54 IST" name="Suite" finished-at="2024-10-29T15:05:04 IST" duration-ms="9878">
     <groups>
     </groups>
-    <test started-at="2024-10-25T13:01:15 IST" name="Test" finished-at="2024-10-25T13:01:24 IST" duration-ms="9139">
+    <test started-at="2024-10-29T15:04:54 IST" name="Test" finished-at="2024-10-29T15:05:04 IST" duration-ms="9878">
       <class name="Airlines.AirlineTest">
-        <test-method signature="createairline()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-25T13:01:15 IST" name="createairline" finished-at="2024-10-25T13:01:23 IST" duration-ms="7563" status="PASS">
+        <test-method signature="createairline()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-29T15:04:55 IST" name="createairline" finished-at="2024-10-29T15:05:03 IST" duration-ms="8106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createairline -->
-        <test-method signature="getAirlines()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-25T13:01:23 IST" name="getAirlines" finished-at="2024-10-25T13:01:24 IST" duration-ms="793" status="PASS">
+        <test-method signature="getAirlines()[pri:0, instance:Airlines.AirlineTest@1677d1]" started-at="2024-10-29T15:05:03 IST" name="getAirlines" finished-at="2024-10-29T15:05:04 IST" duration-ms="858" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAirlines -->

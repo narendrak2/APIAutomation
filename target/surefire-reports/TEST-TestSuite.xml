@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="15.687" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="16.549" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="13"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/narendra/eclipse-workspace/APIAutomation/target/surefire/surefirebooter-20241025130113576_3.jar /Users/narendra/eclipse-workspace/APIAutomation/target/surefire 2024-10-25T13-01-13_221-jvmRun1 surefire-20241025130113576_1tmp surefire_0-20241025130113576_2tmp"/>
+    <property name="sun.java.command" value="/Users/narendra/eclipse-workspace/APIAutomation/target/surefire/surefirebooter-20241029150452611_3.jar /Users/narendra/eclipse-workspace/APIAutomation/target/surefire 2024-10-29T15-04-52_374-jvmRun1 surefire-20241029150452611_1tmp surefire_0-20241029150452611_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/narendra/eclipse-workspace/APIAutomation/target/test-classes:/Users/narendra/eclipse-workspace/APIAutomation/target/classes:/Users/narendra/.m2/repository/io/rest-assured/rest-assured/5.5.0/rest-assured-5.5.0.jar:/Users/narendra/.m2/repository/org/apache/groovy/groovy/4.0.22/groovy-4.0.22.jar:/Users/narendra/.m2/repository/org/apache/groovy/groovy-xml/4.0.22/groovy-xml-4.0.22.jar:/Users/narendra/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/narendra/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/narendra/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/narendra/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/narendra/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/narendra/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/narendra/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/narendra/.m2/repository/io/rest-assured/json-path/5.5.0/json-path-5.5.0.jar:/Users/narendra/.m2/repository/org/apache/groovy/groovy-json/4.0.22/groovy-json-4.0.22.jar:/Users/narendra/.m2/repository/io/rest-assured/rest-assured-common/5.5.0/rest-assured-common-5.5.0.jar:/Users/narendra/.m2/repository/io/rest-assured/xml-path/5.5.0/xml-path-5.5.0.jar:/Users/narendra/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2.jar:/Users/narendra/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/narendra/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/narendra/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/narendra/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.17.2/jackson-databind-2.17.2.jar:/Users/narendra/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2.jar:/Users/narendra/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.17.2/jackson-core-2.17.2.jar:/Users/narendra/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/Users/narendra/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar:/Users/narendra/.m2/repository/com/aventstack/extentreports/5.1.2/extentreports-5.1.2.jar:/Users/narendra/.m2/repository/io/reactivex/rxjava3/rxjava/3.1.6/rxjava-3.1.6.jar:/Users/narendra/.m2/repository/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar:/Users/narendra/.m2/repository/org/freemarker/freemarker/2.3.32/freemarker-2.3.32.jar:/Users/narendra/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/narendra/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/narendra/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/narendra/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/narendra/.m2/repository/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar:/Users/narendra/.m2/repository/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar:/Users/narendra/.m2/repository/com/github/ozlerhakan/poiji/4.1.1/poiji-4.1.1.jar:/Users/narendra/.m2/repository/org/apache/poi/poi-ooxml/5.2.3/poi-ooxml-5.2.3.jar:/Users/narendra/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3.jar:/Users/narendra/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/narendra/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/narendra/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.3/poi-ooxml-lite-5.2.3.jar:/Users/narendra/.m2/repository/org/apache/xmlbeans/xmlbeans/5.1.1/xmlbeans-5.1.1.jar:/Users/narendra/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/narendra/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/narendra/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/narendra/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar:/Users/narendra/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/narendra/eclipse-workspace/APIAutomation/target/surefire/surefirebooter-20241025130113576_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/narendra/eclipse-workspace/APIAutomation/target/surefire/surefirebooter-20241029150452611_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="13.0.1+9"/>
@@ -55,15 +55,44 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="57.0"/>
   </properties>
-  <testcase name="createairline" classname="Airlines.AirlineTest" time="7.56">
-    <system-out><![CDATA[{
-    "_id": "4f12132a-4d46-4900-8523-63a5721e0f75",
-    "name": "Marguerita",
-    "country": "Guam",
-    "logo": "aPnzEC",
-    "slogan": "HDzBmm",
-    "website": "https://DZTgbi.com",
-    "established": "1904",
+  <testcase name="createairline" classname="Airlines.AirlineTest" time="8.098">
+    <system-out><![CDATA[Resposne status code is 200
+Response headers are Server=nginx/1.24.0 (Ubuntu)
+Date=Tue, 29 Oct 2024 09:35:02 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=176
+Connection=keep-alive
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+ETag=W/"b0-9a5OVdsRE2DJaCyjeq2dVvJV7AQ"
+{
+    "_id": "11381c8e-c44b-4118-9363-49801ba18d21",
+    "name": "Bernard",
+    "country": "Zambia",
+    "logo": "JHLdWA",
+    "slogan": "Jnzgtc",
+    "website": "https://PJkjEI.com",
+    "established": "1941",
+    "__v": 0
+}
+Response headers are {
+    "_id": "11381c8e-c44b-4118-9363-49801ba18d21",
+    "name": "Bernard",
+    "country": "Zambia",
+    "logo": "JHLdWA",
+    "slogan": "Jnzgtc",
+    "website": "https://PJkjEI.com",
+    "established": "1941",
+    "__v": 0
+}
+{
+    "_id": "11381c8e-c44b-4118-9363-49801ba18d21",
+    "name": "Bernard",
+    "country": "Zambia",
+    "logo": "JHLdWA",
+    "slogan": "Jnzgtc",
+    "website": "https://PJkjEI.com",
+    "established": "1941",
     "__v": 0
 }
 ]]></system-out>
@@ -72,15 +101,44 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="getAirlines" classname="Airlines.AirlineTest" time="0.791">
-    <system-out><![CDATA[{
-    "_id": "6d3d518a-6955-4fe7-ba1a-e78144566708",
-    "name": "Skye",
-    "country": "France",
-    "logo": "eSUWye",
-    "slogan": "zNXOcs",
-    "website": "https://QNDpFv.com",
-    "established": "1885",
+  <testcase name="getAirlines" classname="Airlines.AirlineTest" time="0.855">
+    <system-out><![CDATA[Resposne status code is 200
+Response headers are Server=nginx/1.24.0 (Ubuntu)
+Date=Tue, 29 Oct 2024 09:35:04 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=176
+Connection=keep-alive
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+ETag=W/"b0-R5swEHeY1Y9g8nnVIhdcQNk6dvU"
+{
+    "_id": "77817721-0458-42f9-9378-67b640e3cfd8",
+    "name": "Darcel",
+    "country": "Vietnam",
+    "logo": "MRYZHw",
+    "slogan": "qKdeNl",
+    "website": "https://wuwGSc.com",
+    "established": "1904",
+    "__v": 0
+}
+Response headers are {
+    "_id": "77817721-0458-42f9-9378-67b640e3cfd8",
+    "name": "Darcel",
+    "country": "Vietnam",
+    "logo": "MRYZHw",
+    "slogan": "qKdeNl",
+    "website": "https://wuwGSc.com",
+    "established": "1904",
+    "__v": 0
+}
+{
+    "_id": "77817721-0458-42f9-9378-67b640e3cfd8",
+    "name": "Darcel",
+    "country": "Vietnam",
+    "logo": "MRYZHw",
+    "slogan": "qKdeNl",
+    "website": "https://wuwGSc.com",
+    "established": "1904",
     "__v": 0
 }
 ]]></system-out>

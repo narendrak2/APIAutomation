@@ -35,5 +35,4 @@ public class AirlineTest extends AirlinesAPI {
 		Response response=createAirline(payload);
 		Assert.assertEquals(response.statusCode(), 200);
 	}
-	
 }
