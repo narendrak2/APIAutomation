@@ -59,6 +59,7 @@ public class Extentreportmanager {
 
         Setup.ExtentTest.get().warning(MarkupHelper.createLabel(log, ExtentColor.YELLOW));
     }
+
     public static void logjosn(String json) {
 
         Setup.ExtentTest.get().info(MarkupHelper.createCodeBlock(json, CodeLanguage.JSON));

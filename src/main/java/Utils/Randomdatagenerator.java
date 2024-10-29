@@ -4,32 +4,32 @@ import com.github.javafaker.Faker;
 
 public class Randomdatagenerator {
 
-	public static Faker faker = new Faker();
+    public static Faker faker = new Faker();
 
-	public static String getRandomData(RandomDataType name) {
+    public static String getRandomData(RandomDataType name) {
 
-		switch (name) {
-		case firstname:
-			return faker.name().firstName();
+        switch (name) {
+            case firstname:
+                return faker.name().firstName();
 
-		case lastname:
+            case lastname:
 
-			return faker.name().lastName();
+                return faker.name().lastName();
 
-		case fullname:
+            case fullname:
 
-			return faker.name().fullName();
+                return faker.name().fullName();
 
-		case country:
+            case country:
 
-			return faker.address().country();
+                return faker.address().country();
 
-		case city:
+            case city:
 
-			return faker.address().city();
-		}
-		return null;
+                return faker.address().city();
+        }
+        return null;
 
-	}
+    }
 
 }

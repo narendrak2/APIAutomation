@@ -21,29 +21,30 @@ public class Setup implements ITestListener {
 
         String fileName = Extentreportmanager.getReportNameWithTimeStamp();
         fullreportpath = System.getProperty("user.dir") + "//reports//" + fileName;
-        File reports=new File(fullreportpath);
-        if(reports.exists()){
+        File reports = new File(fullreportpath);
+        if (reports.exists()) {
             reports.delete();
         }
         report = Extentreportmanager.createinstance(fullreportpath, "API automation report", "test excution report");
     }
 
     public void onFinish(ITestContext context) {
-        if(report!=null){
+        if (report != null) {
             report.flush();
         }
     }
 
     public void onTestStart(ITestResult result) {
 
-        ExtentTest test= report.createTest("Test name=" + result.getMethod().getMethodName());
+        ExtentTest test = report.createTest("Test name=" + result.getMethod().getMethodName());
         ExtentTest.set(test);
     }
+
     public void onTestFailure(ITestResult result) {
         // not implemented
-        ExtentTest test= report.createTest("Test name=" + result.getMethod().getMethodName());
+        ExtentTest test = report.createTest("Test name=" + result.getMethod().getMethodName());
         ExtentTest.set(test);
-        ExtentTest status= report.createTest("Status code=" + result.getStatus());
+        ExtentTest status = report.createTest("Status code=" + result.getStatus());
         ExtentTest.set(status);
 
     }
