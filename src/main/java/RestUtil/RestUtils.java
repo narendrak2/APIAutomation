@@ -18,10 +18,8 @@ public class RestUtils {
 
         return RestAssured.given().
                 baseUri(endPoint).
-                headers(headers)
-                .contentType(ContentType.JSON)
+                headers(headers).contentType(ContentType.JSON)
                 .body(createairlinePayload);
-
     }
 
     public static Response performPost(String endPoint, Map<String, Object> createairlinePayload, Map<String, Object> headers) {
