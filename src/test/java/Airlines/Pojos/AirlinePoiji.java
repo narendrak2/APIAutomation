@@ -5,14 +5,17 @@ import com.poiji.annotation.ExcelCell;
 import com.poiji.annotation.ExcelCellName;
 import com.poiji.annotation.ExcelRow;
 import com.poiji.annotation.ExcelSheet;
+import lombok.ToString;
 
+
+@ToString
 public class AirlinePoiji {
 
 
     @ExcelCell(0)
     private int id;
-    @ExcelCellName("Name")
-    private String name;
+    @ExcelCellName("Module")
+    private String module;
     @ExcelCellName("Name")
     private String country;
     @ExcelCellName("Name")
@@ -27,6 +30,6 @@ public class AirlinePoiji {
     private String established;
     @ExcelCellName("Name")
     private String established1;
-@ExcelRow
+    @ExcelRow
     private String sheetname;
 }

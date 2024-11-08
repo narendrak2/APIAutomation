@@ -9,16 +9,17 @@ import com.fasterxml.jackson.databind.DatabindException;
 import Utils.JsonUtils;
 
 public class Base {
-	
-	public static Map<String,Object> datafromjsonFile;
-	static {
-		
-		try {
-			datafromjsonFile=JsonUtils.getJsonDataMap("Testdata/Test.json");
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
+
+    public static Map<String, Object> datafromjsonFile;
+
+    static {
+
+        try {
+            datafromjsonFile = JsonUtils.getJsonDataMap("Testdata/Test.json");
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
 
 }
