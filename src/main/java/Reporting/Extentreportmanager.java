@@ -37,7 +37,6 @@ public class Extentreportmanager {
         String formattedtime = dateFormatter.format(localdatetime);
         String reportName = "Test Report" + formattedtime + ".html";
         return reportName;
-
     }
 
     public static void logPassDetails(String log) {

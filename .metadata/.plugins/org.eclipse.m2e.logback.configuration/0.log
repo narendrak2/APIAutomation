@@ -1,0 +1,139 @@
+2024-11-08 15:57:35,266 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-08 15:58:17,212 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APIAutomation:APIAutomation:0.0.1-SNAPSHOT @ /Users/narendra/api/APIAutomation/pom.xml.
+2024-11-08 15:58:18,773 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/main/java
+2024-11-08 15:58:18,774 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/main/resources
+2024-11-08 15:58:18,776 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/test/java
+2024-11-08 15:58:18,780 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/test/resources
+2024-11-08 15:58:24,479 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2024-11-08 15:58:27,102 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:58:27,115 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 15:58:27,135 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:58:27,139 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:00:33,365 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:00:33,372 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:00:33,375 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:00:33,376 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:02:48,581 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:02:48,594 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:02:48,601 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:02:48,602 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:02:54,261 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-08 16:02:55,113 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APIAutomation:APIAutomation:0.0.1-SNAPSHOT @ /Users/narendra/api/APIAutomation/pom.xml.
+2024-11-08 16:02:55,784 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/main/java
+2024-11-08 16:02:55,784 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/main/resources
+2024-11-08 16:02:55,811 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/test/java
+2024-11-08 16:02:55,811 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/test/resources
+2024-11-08 16:02:55,979 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-11-08 16:02:56,814 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:02:56,816 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:02:56,831 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:02:56,831 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:05:25,632 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:05:25,639 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:05:25,655 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:05:25,684 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:05:37,311 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:05:37,312 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:05:37,314 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:05:37,315 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:05:59,378 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:05:59,387 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:05:59,390 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:05:59,392 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:07:01,135 [Worker-14: Launching Executing install in _Users_narendra_api_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/api/APIAutomation
+2024-11-08 16:07:01,137 [Worker-14: Launching Executing install in _Users_narendra_api_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-11-08 16:07:26,577 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:07:26,581 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:07:26,584 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:07:26,585 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:07:57,531 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-11-08 16:08:11,927 [Worker-14: Launching APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/api/APIAutomation
+2024-11-08 16:08:11,928 [Worker-14: Launching APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B mvn clean
+2024-11-08 16:09:15,982 [Worker-19: Launching Executing clean in _Users_narendra_api_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/api/APIAutomation
+2024-11-08 16:09:15,984 [Worker-19: Launching Executing clean in _Users_narendra_api_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-11-08 16:09:18,862 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:09:18,864 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:09:18,869 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:09:18,870 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:15:06,740 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:15:06,742 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:15:06,745 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:15:06,746 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:16:49,398 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:16:49,402 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:16:49,404 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:16:49,405 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:20:22,511 [Worker-21: Launching Executing install in _Users_narendra_api_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/api/APIAutomation
+2024-11-08 16:20:22,516 [Worker-21: Launching Executing install in _Users_narendra_api_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-11-08 16:20:47,607 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:20:47,610 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:20:47,612 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:20:47,614 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:22:04,885 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:22:04,888 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:22:04,890 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:22:04,891 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-08 16:24:01,705 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-08 16:24:02,564 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APIAutomation:APIAutomation:0.0.1-SNAPSHOT @ /Users/narendra/api/APIAutomation/pom.xml.
+2024-11-08 16:24:03,404 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/main/java
+2024-11-08 16:24:03,405 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/main/resources
+2024-11-08 16:24:03,405 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/test/java
+2024-11-08 16:24:03,405 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/test/resources
+2024-11-08 16:24:03,639 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-11-08 16:24:04,765 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:24:04,768 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:24:04,784 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:24:04,785 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:26:21,841 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-08 16:27:12,024 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-08 16:27:13,436 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APIAutomation:APIAutomation:0.0.1-SNAPSHOT @ /Users/narendra/api/APIAutomation/pom.xml.
+2024-11-08 16:27:14,311 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/main/java
+2024-11-08 16:27:14,311 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/main/resources
+2024-11-08 16:27:14,313 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIAutomation/src/test/java
+2024-11-08 16:27:14,314 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIAutomation/src/test/resources
+2024-11-08 16:27:14,797 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2024-11-08 16:27:16,331 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:27:16,338 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:27:16,388 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:27:16,389 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-08 16:27:57,146 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:27:57,155 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-08 16:27:57,158 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:27:57,159 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-08 16:28:50,122 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:28:50,126 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-08 16:28:50,128 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:28:50,128 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-08 16:34:38,305 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:34:38,313 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-08 16:34:38,317 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:34:38,318 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-08 16:35:18,511 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:35:18,512 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-08 16:35:18,516 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:35:18,516 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-11 23:24:32,041 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-11-11 23:24:32,453 [Worker-49: Launching APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/APIAutomation
+2024-11-11 23:24:32,459 [Worker-49: Launching APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B mvn clean
+2024-11-11 23:24:47,585 [Worker-49: Launching Executing test in _Users_narendra_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/APIAutomation
+2024-11-11 23:24:47,586 [Worker-49: Launching Executing test in _Users_narendra_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2024-11-12 13:46:55,775 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:46:55,842 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-12 13:46:55,849 [Worker-75: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:46:55,850 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-12 13:46:56,869 [Worker-77: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:46:56,870 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-12 13:46:56,871 [Worker-77: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:46:56,872 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-12 13:47:10,473 [Worker-77: Launching Executing test in _Users_narendra_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/APIAutomation
+2024-11-12 13:47:10,475 [Worker-77: Launching Executing test in _Users_narendra_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2024-11-12 13:47:30,075 [Worker-74: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:47:30,078 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-12 13:47:30,080 [Worker-74: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:47:30,081 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-12 13:49:29,316 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:49:29,320 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/main/resources
+2024-11-12 13:49:29,321 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-12 13:49:29,322 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/narendra/api/APIAutomation/src/test/resources
+2024-11-12 13:49:57,230 [Worker-66: Launching Executing test in _Users_narendra_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/narendra/APIAutomation
+2024-11-12 13:49:57,230 [Worker-66: Launching Executing test in _Users_narendra_APIAutomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
