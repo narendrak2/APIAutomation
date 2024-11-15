@@ -24,7 +24,7 @@ public class AirlineTest extends AirlinesAPI {
 
     @Test
     public void createairline() throws StreamReadException, DatabindException, IOException {
-
+ss
         Airline payload = Payloads.getcreateAirlinepayloadFromPojo();
         Response response = createAirline(payload);
         Assert.assertEquals(response.statusCode(), 200);
